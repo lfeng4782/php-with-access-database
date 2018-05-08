@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Assignment5</title>
+		<title>php practice</title>
 		<link rel="stylesheet" href="assignment5.css">    
 	</head>
 
